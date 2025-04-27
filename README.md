@@ -10,7 +10,7 @@
 הרמות הופכות להיות מורכבות יותר עם הזמן, ומאתגרות אתכם להתמודד עם מספר פצועים במקביל, תיעדוף במצבי חירום, ואירועים בלתי צפויים שדורשים תגובה מיידית ומדויקת.
 
 ## רכיבים רשמיים
-למידע נוסף על הרכיבים הרשמיים של המשחק, אתם מוזמנים לקרוא את הדף [כאן](https://github.com/ComputerGameDevelopmentCourse/IronDome/blob/main/formal-elements.md).
+למידע נוסף על הרכיבים הרשמיים של המשחק, אתם מוזמנים לקרוא את הדף [כאן](https://github.com/ComputerGameDevelopmentCourse/E.M.T-The_First_Responder/blob/main/formal-elements.md).
 
 ## איך לשחק
 
